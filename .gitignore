@@ -214,3 +214,5 @@ Symmetry_Measurement_Protocol/Analysis_NormalizedPCs.bash
 *.pt
 *.ckpt
 *.pkl
+# Ignorar Datasets de ShapeNet
+ShapeNetCore.v2.PC15k/
